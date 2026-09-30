@@ -17,7 +17,7 @@ Input Controls: Full clear (C) and single-character backspace (⌫) capabilities
 
 Zero Dependencies: Pure vanilla JavaScript logic and custom styling.
 
-<img style="margin-left: 40px; margin-right: 40px;" width="371" height="446" alt="Screenshot_20260930_195547" src="https://github.com/user-attachments/assets/35abadd4-a41b-47f5-80a3-f22370b88666" />
+<img width="371" height="446" alt="Screenshot_20260930_195547" src="https://github.com/user-attachments/assets/35abadd4-a41b-47f5-80a3-f22370b88666" />
 
 🛠️ Tech Stack
 
