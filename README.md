@@ -1,3 +1,4 @@
+
 🧮 Pastel Calc
 
 A clean, modern, soft-UI calculator web application styled in a calming pastel palette. Built entirely with vanilla HTML, CSS, and JavaScript—no frameworks or external dependencies required.
@@ -23,3 +24,5 @@ HTML5: Semantic element structure for display screen and control grid.
 CSS3: Custom properties (CSS variables), Flexbox/Grid layouts, soft elevation shadows, and smooth hover/active state transitions.
 
 JavaScript (ES6+): Pure DOM manipulation, real-time input parsing, and arithmetic expression evaluation.
+
+<img width="371" height="446" alt="Screenshot_20260930_195547" src="https://github.com/user-attachments/assets/35abadd4-a41b-47f5-80a3-f22370b88666" />
